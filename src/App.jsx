@@ -43,7 +43,7 @@ const changeHandler=(e)=>{
     <>
     <Navbar bg="dark" expand="lg" variant="dark">
       <Container fluid>
-        <Navbar.Brand href="/home">MoveDb App</Navbar.Brand>
+        <Navbar.Brand href="/home">Movie Hive</Navbar.Brand>
         <Navbar.Brand href="/home">Trending</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll">
         </Navbar.Toggle>
