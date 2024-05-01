@@ -9,6 +9,8 @@
 
 Home Page
 
+![](./public/Screenshot1.png)
+
 Search Result with modal
 
 ![](./public/Screenshot2.png)
