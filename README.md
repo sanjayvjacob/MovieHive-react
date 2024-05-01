@@ -9,11 +9,11 @@
 
 Home Page
 
-![](/Screenshot1.png)
+![](./public/Screenshot1.png)
 
 Search Result with modal
 
-![](/Screenshot2.png)
+![](./public/Screenshot2.png)
 
 API_URL="https://api.themoviedb.org/3/movie/popular?api_key=<<api_key_here>>"
 
